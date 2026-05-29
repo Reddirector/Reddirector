@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 # 👋 Yo, I'm Aditya Kumar Singh
 
 🚀 Building stuff that probably shouldn’t work… but somehow does
@@ -27,7 +25,6 @@ I love mixing:
 > If it breaks, call it a feature.” ✨
 
 ---
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/ours.truly.aditya)
